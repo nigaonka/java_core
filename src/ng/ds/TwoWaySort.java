@@ -43,6 +43,8 @@ public class TwoWaySort {
 
         list.forEach(System.out::println);
 
+     //   list.forEach(name -> System.out.println(name));
+
         }
 
         public static void main (String arg[])
